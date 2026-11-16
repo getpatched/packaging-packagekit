@@ -20,7 +20,7 @@
   ],
   "patchMetadata": "patches/metadata.json",
   "regressionTests": {
-    "fixturesDirectory": "tests/fixtures",
+    "fixturesDirectory": "ci/debian-trixie-amd64",
     "runner": "ci/debian-trixie-amd64/smoke.sh"
   },
   "licensing": {

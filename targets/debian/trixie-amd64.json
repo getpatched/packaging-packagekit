@@ -1,5 +1,6 @@
 {
   "schemaVersion": 2,
+  "status": "ci-baseline",
   "id": "debian-trixie-amd64",
   "base": {
     "distribution": "Debian",
@@ -55,6 +56,5 @@
     "packagekit-tools",
     "libpackagekit-glib2-18"
   ],
-  "patches": [],
-  "status": "unreleased-development-candidate"
+  "patches": []
 }
